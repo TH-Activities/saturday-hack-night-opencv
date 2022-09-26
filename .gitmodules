@@ -1,3 +1,6 @@
 [submodule "Whitehats | gT0JfK55M1SRNMBrMt10"]
 	path = Whitehats | gT0JfK55M1SRNMBrMt10
 	url = https://github.com/sharath1606/hackonbase
+[submodule "HackHeist | MktHnGxqG8tBIdiG4cez"]
+	path = HackHeist | MktHnGxqG8tBIdiG4cez
+	url = https://github.com/FasnaSharaf/OpenCV-SHN.git
