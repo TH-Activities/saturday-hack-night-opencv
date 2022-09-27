@@ -22,3 +22,6 @@
 [submodule "niswas | B9xToUrrsFkOvFZve6E1"]
 	path = niswas | B9xToUrrsFkOvFZve6E1
 	url = https://github.com/FathimaNiswa/OpenCV-Project.git
+[submodule "Codex | 91zGOlqKRMmTy2ZhH8Lz"]
+	path = Codex | 91zGOlqKRMmTy2ZhH8Lz
+	url = https://github.com/navyasraj02/Open-CV-Project
